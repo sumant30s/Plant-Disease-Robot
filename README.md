@@ -68,8 +68,8 @@ This solution helps farmers reduce pesticide usage, improve crop health, and ado
 ---
 
 ## 👨‍💻 Author
-**Sumant Shet**  
-AI | Full Stack | IoT | Robotics Enthusiast  
+**Sumant Shet**
+
 
 ---
 
